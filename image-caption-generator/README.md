@@ -4,7 +4,7 @@
 - Trained on datasets of images paired with human-written captions - using the Flickr8K dataset.
 - Three main architectures will be explored:  
 A convolutional neural network plus recurrent neural network architecture  
-An attention-based mechanism which improves relevancy through visual guidance, and  
+An attention-based mechanism that improves relevancy through visual guidance, and  
 Transformer models designed for parallelized computation and enhanced contextual modeling through self-attention.
 
 
