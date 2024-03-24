@@ -1,8 +1,10 @@
-# Simple Neural Network for Iris Classification
+# Species Classification - Iris Flower Dataset
 **Building a simple neural network from first principles.**
 
-- Bullet 1.
-- Bullet 2.
+- Simple neural network trained on the Iris Flower dataset to classify three species of Iris.
+- Coded from first principles without using any Deep Learning Python libraries.
+- Understanding how a neural network works at the lowest level.
+- Deployed model with FastAPI and Docker.
 
 
 ## License
