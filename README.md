@@ -7,3 +7,13 @@ I have completed an intensive data science, machine learning, and AI skills prog
 These notebooks document my exploration. As such, they not only offer solutions to challenges, but also share my thought process and capture my learning. I trust readers will appreciate my starting point rather than expect "perfect" solutions.
 
 My work here will be far from polished, but that's okay. This exploration will open doors to new ideas demanding further investigation. I can't wait to see where it leads! Please enjoy following my journey as I work to translate my passion into a new career in this dynamic field.
+
+### Projects:
+
+| Topic  | Summary |
+| ------------- | ------------- |
+| [Upvotes Prediction - Hacker News Dataset](https://github.com/mhodierne1402/hacker-news-upvotes-prediction) |Predicting how many upvotes a Hacker News article is likely to get. |
+| [Species Classification - Iris Flower Dataset](https://github.com/mhodierne1402/data-science-ml-portfolio/tree/main/iris-classification) |Simple neural network to classify three species of Iris. |
+| [Image Caption Generation - Flickr8k Dataset](https://github.com/mhodierne1402/data-science-ml-portfolio/tree/main/image-caption-generator) |Deep learning model using computer vision and NLP techniques.|
+| [Polytope Permutation Puzzle - Kaggle Competition](https://github.com/mhodierne1402/data-science-ml-portfolio/tree/main/polytope-puzzle) |Heuristic graph search algorithms and methods of optimization. |
+
