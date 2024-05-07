@@ -6,8 +6,3 @@
 - Comparing the performance of Breadth First, A*, and IDA* search.
 
 [Link to project on Kaggle.](https://www.kaggle.com/code/markhodierne/the-polytope-permutation-puzzle)
-
-## License
-
-MIT License.
-Copyright (c) 2024 Mark Hodierne
