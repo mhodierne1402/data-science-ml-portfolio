@@ -16,7 +16,7 @@ My work here will be far from polished, but that's okay. This exploration will o
 | [Retrieval-Augmented Generation - MS MARCO Dataset](https://github.com/mhodierne1402/basic-rag) |Retrieval and generator models using Sentence Transformers and the BART encoder-decoder. |
 | [Fine-Tuning — Examples with MIXTRAL 8x7B](https://github.com/mhodierne1402/fine-tuning-mixtral) |Parameter Efficient Fine-Tuning on the new Mixtral_8x7B_Instruct_v0.1 LLM. |
 | [Image Caption Generator Multimodal Transformer - Flickr30k Dataset](https://github.com/mhodierne1402/image-captions-transformer) |Deep learning model using Computer Vision and NLP techniques. |
-| [Small Language Model - Tiny Stories Dataset](https://github.com/mhodierne1402/data-science-ml-portfolio/tree/main/short-story-generator) |Transformer decoder architecture to generate stories of my own. |
+| [Small Language Model - Tiny Stories Dataset](https://github.com/mhodierne1402/short-story-generator) |Transformer decoder architecture to generate stories of my own. |
 | [Computer Vision - Object Recognition with YOLOv1](https://github.com/mhodierne1402/football-object-recognition) |Detecting the players, their team (and the ball!) on a football pitch. |
 | [Document Ranking - MS MARCO Dataset](https://github.com/mhodierne1402/msmarco-document-ranking) |Ranking the 10 most relevant documents relating to a search query. |
 | [Upvotes Prediction - Hacker News Dataset](https://github.com/mhodierne1402/hacker-news-upvotes-prediction) |Predicting how many upvotes a Hacker News article  is likely to get. |
