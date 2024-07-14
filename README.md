@@ -12,7 +12,8 @@ My work here will be far from polished, but that's okay. This exploration will o
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| Study Flashcards from PDF Revision Notes with RAG and Llama 3|Current client project to extend the functionality of an existing iOS flashcard app. |
+| [AI Neighbourhood App (Hackathon)](https://github.com/mhodierne1402/broken-window-hackathon) |Using an LLM to classify and analyze residents' photos and reports, and track how things are changing over time. |
+| Study Flashcards from PDF Revision Notes - RAG and Llama 3|Extending the functionality of an existing iOS flashcard app. |
 | [Retrieval-Augmented Generation - MS MARCO Dataset](https://github.com/mhodierne1402/basic-rag) |Retrieval and generator models using Sentence Transformers and the BART encoder-decoder. |
 | [Fine-Tuning — Examples with MIXTRAL 8x7B](https://github.com/mhodierne1402/fine-tuning-mixtral) |Parameter Efficient Fine-Tuning on the new Mixtral_8x7B_Instruct_v0.1 LLM. |
 | [Image Caption Generator Multimodal Transformer - Flickr30k Dataset](https://github.com/mhodierne1402/image-captions-transformer) |Deep learning model using Computer Vision and NLP techniques. |
